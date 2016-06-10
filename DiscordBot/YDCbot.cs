@@ -84,8 +84,6 @@ namespace DiscordBot
         #endregion 
         public YDCbot()
         {
-            System.IO.Directory.CreateDirectory(System.AppDomain.CurrentDomain.BaseDirectory + @"Music\");
-            System.IO.Directory.CreateDirectory(System.AppDomain.CurrentDomain.BaseDirectory + @"Save\");
             //Timers Elasped Event
             TwitterTimer.Elapsed += TwitterTimer_Elapsed;
             MessageTimer.Elapsed += MessageTimer_Elapsed;
