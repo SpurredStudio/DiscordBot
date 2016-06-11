@@ -36,8 +36,6 @@ namespace DiscordBot
                 {
                     DownloadUrlResolver.DecryptDownloadUrl(video);
                 }
-
-                Console.WriteLine(video.AudioType.ToString());
                 MusicFileTitle = RemoveSpecialCharacters(video.Title) + video.AudioExtension;
 
                 if (!File.Exists(BaseFilePath + MusicFileTitle))
@@ -45,23 +43,28 @@ namespace DiscordBot
                     var audioDownloader = new AudioDownloader(video, Path.Combine(BaseFilePath, MusicFileTitle));
                     if (audioDownloader.BytesToDownload > 2000000 && !e.User.HasRole(Mod))
                     {
-#pragma warning disable CS4014 // Because this call is not awaited, execution of the current method continues before the call is completed
                         e.User.SendMessage("The audio file is to large to download, try a shorter youtube video.");
-#pragma warning restore CS4014 // Because this call is not awaited, execution of the current method continues before the call is completed
                         return;
                     }
+
+                    try
+                    {
+                        System.Security.AccessControl.DirectorySecurity ds = Directory.GetAccessControl(BaseFilePath);
+                    }
+                    catch (UnauthorizedAccessException)
+                    {
+                        Console.WriteLine("Can not write to folder");
+                    }
+
                     try
                     {
                         audioDownloader.Execute();
-                        Console.WriteLine("Download Complete");
                     }
                     catch
                     {
-#pragma warning disable CS4014 // Because this call is not awaited, execution of the current method continues before the call is completed
-                        e.User.SendMessage("could not find file location");
-#pragma warning restore CS4014 // Because this call is not awaited, execution of the current method continues before the call is completed
-                        Console.WriteLine("Error file location");
-                    }             
+                        e.User.SendMessage("Failed audioDownloader");
+                    }
+   
                 }
             }
             catch(YoutubeParseException w)
@@ -89,7 +92,6 @@ namespace DiscordBot
             var MP3Reader = new Mp3FileReader(filePath);
             MP3Reader.Seek(0, SeekOrigin.Begin);
             var resampler = new MediaFoundationResampler(MP3Reader, OutFormat);// Create a Disposable Resampler, which will convert the read MP3 data to PCM, using our Output Format
-            Console.WriteLine("Converted MP3 to Opus");
             resampler.ResamplerQuality = 60; // Set the quality of the resampler to 60, the highest quality
             int blockSize = OutFormat.AverageBytesPerSecond / 10; // Establish the size of our AudioBuffer
             byte[] buffer = new byte[blockSize];
@@ -106,7 +108,6 @@ namespace DiscordBot
 
                 vbot.Send(buffer, 0, blockSize); // Send the buffer to Discord
             }
-            ExitLoop = false;
             resampler.Dispose();
             vbot.Clear();
             if (Playlist.Count() > 10)

@@ -26,7 +26,6 @@ namespace DiscordBot
                 "Outlook so so^ Looks good to me!^ Who knows?^ Looking good!^ Probably^ Are you Kidding?^ Go for it!^ Don't bet on it^ " +
                 "Forget about it";
         static string[] EightBallArray;
-        static string[] ClutchArray;
         #endregion
         #region Ban Users
         static List<string> ListofReporters = new List<string>();
@@ -429,7 +428,7 @@ namespace DiscordBot
             }
             #endregion
             #region !youtube
-            if (MessageArray[0].ToLower() == "!youtube")
+            if (MessageArray[0].ToLower() == "!youtube" && !e.Channel.IsPrivate)
             {
                 if (MessageArray[1].ToLower() == "stop" && e.User.HasRole(Mod))
                 {

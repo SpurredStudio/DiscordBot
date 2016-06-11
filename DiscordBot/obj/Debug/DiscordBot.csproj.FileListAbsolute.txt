@@ -1,0 +1,234 @@
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\DiscordBot.exe.config
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\obj\Debug\DiscordBot.csprojResolveAssemblyReference.cache
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\DiscordBot.exe
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\DiscordBot.pdb
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Discord.Net.dll
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\NAudio.dll
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Newtonsoft.Json.dll
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.dll
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\RestSharp.dll
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\websocket-sharp.dll
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\WebSocket4Net.dll
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Discord.Net.xml
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\NAudio.xml
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Newtonsoft.Json.xml
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.xml
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\RestSharp.xml
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\websocket-sharp.xml
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\obj\Debug\DiscordBot.exe
+e:\libraries\documents\visual studio 2015\Projects\DiscordBot\DiscordBot\obj\Debug\DiscordBot.pdb
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Hammock.ClientProfile.dll
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\TweetSharp.dll
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Hammock.ClientProfile.pdb
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\TweetSharp.pdb
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Imgur.API.dll
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Imgur.API.xml
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Core.dll
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Interfaces.dll
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Linq.dll
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\System.Reactive.PlatformServices.dll
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Core.xml
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Interfaces.xml
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Linq.xml
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\System.Reactive.PlatformServices.xml
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Discord.Net.Audio.dll
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Discord.Net.Commands.dll
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Discord.Net.Modules.dll
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Discord.Net.Audio.xml
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Discord.Net.Commands.xml
+E:\Libraries\Documents\Visual Studio 2015\Projects\DiscordBot\DiscordBot\bin\Debug\Discord.Net.Modules.xml
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\DiscordBot.exe.config
+C:\Users\1\Desktop\DiscordBot\DiscordBot\obj\Debug\DiscordBot.exe
+C:\Users\1\Desktop\DiscordBot\DiscordBot\obj\Debug\DiscordBot.pdb
+C:\Users\1\Desktop\DiscordBot\DiscordBot\obj\Debug\DiscordBot.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\DiscordBot.exe
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\DiscordBot.pdb
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\Discord.Net.Audio.dll
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\Discord.Net.dll
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\NAudio.dll
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.dll
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\RestSharp.dll
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Core.dll
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Linq.dll
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\TweetSharp.dll
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\websocket-sharp.dll
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\WebSocket4Net.dll
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\Discord.Net.xml
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\Discord.Net.Audio.xml
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\Discord.Net.Commands.xml
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\NAudio.xml
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.xml
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\RestSharp.xml
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Core.xml
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Linq.xml
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\TweetSharp.pdb
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\websocket-sharp.xml
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\YoutubeExtractor.dll
+C:\Users\1\Desktop\DiscordBot\DiscordBot\bin\Debug\YoutubeExtractor.xml
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\DiscordBot.exe.config
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\obj\Debug\DiscordBot.exe
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\obj\Debug\DiscordBot.pdb
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\DiscordBot.exe
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\DiscordBot.pdb
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\Discord.Net.Audio.dll
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\Discord.Net.dll
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\NAudio.dll
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\Nito.AsyncEx.dll
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\RestSharp.dll
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\System.Reactive.Core.dll
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\System.Reactive.Linq.dll
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\TweetSharp.dll
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\websocket-sharp.dll
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\WebSocket4Net.dll
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\YoutubeExtractor.dll
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\Discord.Net.xml
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\Discord.Net.Audio.xml
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\Discord.Net.Commands.xml
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\NAudio.xml
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\Nito.AsyncEx.xml
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\RestSharp.xml
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\System.Reactive.Core.xml
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\System.Reactive.Linq.xml
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\TweetSharp.pdb
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\websocket-sharp.xml
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\bin\Debug\YoutubeExtractor.xml
+C:\Users\1\Desktop\DiscordBot - Copy\DiscordBot\obj\Debug\DiscordBot.csprojResolveAssemblyReference.cache
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\DiscordBot.exe.config
+E:\Libraries\Desktop\DiscordBot\DiscordBot\obj\Debug\DiscordBot.exe
+E:\Libraries\Desktop\DiscordBot\DiscordBot\obj\Debug\DiscordBot.pdb
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\DiscordBot.exe.config
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\obj\Debug\DiscordBot.exe
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\obj\Debug\DiscordBot.pdb
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\DiscordBot.exe
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\DiscordBot.pdb
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\Hammock.ClientProfile.dll
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\NAudio.dll
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.dll
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\RestSharp.dll
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\System.Reactive.Core.dll
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\System.Reactive.Interfaces.dll
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\System.Reactive.Linq.dll
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\System.Reactive.PlatformServices.dll
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\TweetSharp.dll
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\websocket-sharp.dll
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\WebSocket4Net.dll
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\YoutubeExtractor.dll
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\Discord.Net.xml
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\Discord.Net.Audio.xml
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\Hammock.ClientProfile.pdb
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\NAudio.xml
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\Newtonsoft.Json.xml
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.xml
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\RestSharp.xml
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\System.Reactive.Core.xml
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\System.Reactive.Interfaces.xml
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\System.Reactive.Linq.xml
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\System.Reactive.PlatformServices.xml
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\TweetSharp.pdb
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\websocket-sharp.xml
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\bin\Debug\YoutubeExtractor.xml
+E:\Libraries\Desktop\PublicDiscordBot\DiscordBot\obj\Debug\DiscordBot.csprojResolveAssemblyReference.cache
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\DiscordBot.exe.config
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\obj\Debug\DiscordBot.exe
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\obj\Debug\DiscordBot.pdb
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\DiscordBot.exe
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\DiscordBot.pdb
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\Hammock.ClientProfile.dll
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\NAudio.dll
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.dll
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\RestSharp.dll
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Core.dll
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Interfaces.dll
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Linq.dll
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\System.Reactive.PlatformServices.dll
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\TweetSharp.dll
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\websocket-sharp.dll
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\WebSocket4Net.dll
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\YoutubeExtractor.dll
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\Discord.Net.xml
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\Discord.Net.Audio.xml
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\Hammock.ClientProfile.pdb
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\NAudio.xml
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\Newtonsoft.Json.xml
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.xml
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\RestSharp.xml
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Core.xml
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Interfaces.xml
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Linq.xml
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\System.Reactive.PlatformServices.xml
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\TweetSharp.pdb
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\websocket-sharp.xml
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\bin\Debug\YoutubeExtractor.xml
+E:\Libraries\Documents\GitHub\DiscordBot\DiscordBot\obj\Debug\DiscordBot.csprojResolveAssemblyReference.cache
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\DiscordBot.exe
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\DiscordBot.pdb
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\Discord.Net.Audio.dll
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\Discord.Net.dll
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\Hammock.ClientProfile.dll
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\NAudio.dll
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\Newtonsoft.Json.dll
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.dll
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\RestSharp.dll
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Core.dll
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Interfaces.dll
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Linq.dll
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\System.Reactive.PlatformServices.dll
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\TweetSharp.dll
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\websocket-sharp.dll
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\WebSocket4Net.dll
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\YoutubeExtractor.dll
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\Hammock.ClientProfile.pdb
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\NAudio.xml
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\Newtonsoft.Json.xml
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.xml
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\RestSharp.xml
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Core.xml
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Interfaces.xml
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\System.Reactive.Linq.xml
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\System.Reactive.PlatformServices.xml
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\TweetSharp.pdb
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\websocket-sharp.xml
+E:\Libraries\Desktop\DiscordBot\DiscordBot\bin\Debug\YoutubeExtractor.xml
+E:\Libraries\Desktop\DiscordBot\DiscordBot\obj\Debug\DiscordBot.csprojResolveAssemblyReference.cache

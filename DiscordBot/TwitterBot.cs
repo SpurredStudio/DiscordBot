@@ -28,6 +28,14 @@ namespace DiscordBot
 
         public static void TwitterUpdate()
         {
+            Rust.TwitterAccount = "RustUpdates";
+            Warcraft.TwitterAccount = "Warcraft";
+            Overwatch.TwitterAccount = "PlayOverwatch";
+            Starcraft.TwitterAccount = "Starcraft";
+            Diablo.TwitterAccount = "Diablo";
+            Hearthstone.TwitterAccount = "PlayHearthstone";
+            Heroes.TwitterAccount = "BlizzHeroes";
+
             if (hardreset)
             {
                 if (resetTime >= 15)
@@ -369,13 +377,6 @@ namespace DiscordBot
             Starcraft.LastTweet = Convert.ToInt64(LastStarcraftTweetstring);
             Overwatch.LastTweet = Convert.ToInt64(LastOverwatchTweetstring);
             Rust.LastTweet = Convert.ToInt64(LastRustTweetstring);          
-            Rust.TwitterAccount = "RustUpdates";
-            Warcraft.TwitterAccount = "Warcraft";
-            Overwatch.TwitterAccount = "PlayOverwatch";
-            Starcraft.TwitterAccount = "Starcraft";
-            Diablo.TwitterAccount = "Diablo";
-            Hearthstone.TwitterAccount = "PlayHearthstone";
-            Heroes.TwitterAccount = "BlizzHeroes";
             TwitterAccounts.Add(Rust);
             TwitterAccounts.Add(Overwatch);
             TwitterAccounts.Add(Starcraft);
