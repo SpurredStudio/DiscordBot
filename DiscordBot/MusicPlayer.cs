@@ -67,7 +67,7 @@ namespace DiscordBot
    
                 }
             }
-            catch(YoutubeParseException w)
+            catch(SystemException w)
             {
                 await MusicCh.LeaveAudio();
                 await vbot.Disconnect();

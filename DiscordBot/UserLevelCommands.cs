@@ -439,6 +439,7 @@ namespace DiscordBot
                 {
                     if (!MusicPlayer.IsPlaying)
                     {
+                        MusicPlayer.ExitLoop = false;
                         MusicPlayer.PlayYouTube(MessageArray[1], e);
                     }
                     else

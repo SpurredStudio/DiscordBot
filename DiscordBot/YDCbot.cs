@@ -25,7 +25,7 @@ namespace DiscordBot
         public static string TwitterConsumerSecret = "";
         public static string Twittertoken = "";
         public static string TwittertokenSecret = "";
-        string CurrentGame = "Testing"; //changes the bots current game
+        string CurrentGame = ""; //changes the bots current game
         //txt channels
         string AdminTxtCh = "admins"; //Change this to what ever you want to call the admin text channel. In the future this may not be an option
                                       //as Discord may add its own admin channel for moderation. Once there is a default admin channel I will push
